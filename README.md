@@ -1,8 +1,8 @@
 <div dir="ltr" style="text-align: left;" trbidi="on">
 <h2 style="text-align: left;">
-<i>Care For U</i></h2>
+<i>HealthMonitor</i></h2>
 <div style="text-align: left;">
-<i>A complete health care app with elegant GUI and following features : customized Medicine Reminder, daily health tips, information about nearby hospitals with navigation, complete information regarding a medicine or salt and first aid tips. First aid tips are fetched from remote database with 'save offline' feature for emergency.&nbsp;&nbsp;</i><br />
+<i>An android app with  following features : customized Medicine Reminder, daily health tips, and Step Counter to count our daily steps walked in a day.&nbsp;&nbsp;</i><br />
 <br />
 <h3 style="text-align: left;">
 <i>Installing</i></h3>
