@@ -5,16 +5,13 @@
 <i>An android app with  following features : customized Medicine Reminder, daily health tips, and Step Counter to count our daily steps walked in a day.&nbsp;&nbsp;</i><br />
 <br />
 <h3 style="text-align: left;">
-<i>Installing</i></h3>
-<i> To install the app, just download the apk for Android <a href="https://github.com/rishab951/CareForU/releases/download/v1.0.0/CareForU.apk" target="_blank">from here</a>. </i><br />
-<i><br /></i>
+
+
 <br />
 <h3 style="text-align: left;">
 <i>Screenshots<!--more--></i></h3>
 </div>
-<i><b>Splash Screen</b></i><br />
-<div class="separator" style="clear: both; text-align: center;">
-</div>
+
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://1.bp.blogspot.com/-92HxhvpPRS0/WXpElgG8gWI/AAAAAAAAC48/Z8op8AWV5mIU02XKDAPjNqa0SGXKz9PkwCEwYBhgL/s1600/Screenshot%2B%25282%2529.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"></a></div>
 <div class="separator" style="clear: both; text-align: center;">
@@ -27,10 +24,7 @@
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
 <i><b>Home Page</b></i></div>
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://1.bp.blogspot.com/-Ui8H0icCYWw/WXpEmnvO-vI/AAAAAAAAC5E/nHGw8DqurGYRABMOG8WIzhpPWm2hC6tuACEwYBhgL/s1600/Screenshot%2B%25285%2529.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="900" height="400" src="https://1.bp.blogspot.com/-Ui8H0icCYWw/WXpEmnvO-vI/AAAAAAAAC5E/nHGw8DqurGYRABMOG8WIzhpPWm2hC6tuACEwYBhgL/s400/Screenshot%2B%25285%2529.png" width="225" />&nbsp;</a></div>
-<div class="separator" style="clear: both; text-align: center;">
-<br /></div>
+
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://1.bp.blogspot.com/-DG1EB2R3aiQ/WXpEk9V63hI/AAAAAAAAC4w/OOfSUx2hTjQBmA2B19PO2595lRi06QQkQCEwYBhgL/s1600/Screenshot%2B%252817%2529.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="900" height="400" src="https://1.bp.blogspot.com/-DG1EB2R3aiQ/WXpEk9V63hI/AAAAAAAAC4w/OOfSUx2hTjQBmA2B19PO2595lRi06QQkQCEwYBhgL/s400/Screenshot%2B%252817%2529.png" width="225" /></a></div>
 <div class="separator" style="clear: both; text-align: center;">
